@@ -1,5 +1,4 @@
 # This project is build using HTML5 and Twitter Bootstrap 3
-## I would like to thank my friend Jason who helped me whenever I asked him
 ### You are free to use the code for non-commercial purposes
 
 The code works fine in all modern browsers
@@ -8,4 +7,7 @@ The code works fine in all modern browsers
 - Safari
 - Opera
 
-You can contact me at [Edureka](http://www.edureka.co "Edureka")  
+Please reach us at [Edureka](http://www.edureka.co "Edureka")  
+<div>
+<img src="images/edureka-logo.jpg"/>
+</div>
